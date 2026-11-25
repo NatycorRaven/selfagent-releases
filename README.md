@@ -4,6 +4,7 @@ SelfAgent 的公开下载页与安装包。源码仓库保持私有，这里只�
 
 - 下载页：<https://natycorraven.github.io/selfagent-releases/>
 - 最新版本：<https://github.com/NatycorRaven/selfagent-releases/releases/latest>
+- 直链 APK：<https://natycorraven.github.io/selfagent-releases/apk/selfagent-0.1.0.apk>
 
 ## 版本
 
